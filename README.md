@@ -1,7 +1,9 @@
-## **What Is This?**
-This repository contains scripts and documentations I have collated in order to get the MechARM 270 Pi from Elephant Robotics working.
+![](img/mecharm_pi.jpeg)
 
-The aim of this codebase is to provide a streamlined and accessable place in order to better set up and use the MechARM 270 Pi. This comes in response to the lack of responses from the Open Source team of Elephant Robotics.
+## **What Is This?**
+This repository contains scripts and documentations I have collated in order to get **MechARM 270 Pi** from Elephant Robotics working.
+
+The aim of this codebase is to provide a streamlined and accessable place in order to better set up and use **MechARM 270 Pi**. This comes in response to the lack of responses from the Open Source team of Elephant Robotics.
 
 ## **References**
 
